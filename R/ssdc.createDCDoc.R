@@ -1,3 +1,3 @@
-ssdc <- function(name,steps) {
+ssdc.createDCDoc <- function(name,steps) {
  # Comment
 }
